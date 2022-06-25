@@ -2,7 +2,7 @@
 
 - #### 01 [API testing Postman Collection](https://www.getpostman.com/collections/f5f9e8f2ad24afec42af)
 
-- #### 02 [API testing Postman Documentation](https://documenter.getpostman.com/view/21523077/UzBpM6R1)
+- #### 02 [API testing Postman Documentation](https://documenter.getpostman.com/view/21495292/UzBsGigX)
 
 ### **How to run this project**
 
