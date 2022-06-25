@@ -10,19 +10,21 @@
 
 - #### 02 Open with any code editor (Ex-VS Code) and 
 
-- #### 02 Open project folder from the top menu by click on >file>open folder
+- #### 03 Open project folder from the top menu by click on >file>open folder
 
-- #### 03 Open terminal inside the project folder
+- #### 04 Open terminal inside the project folder
 
-- #### 04 Follow the command below to run the Collection Run Jason file
+- #### 05 Follow the command below to run the Collection Run Jason file
 
-- #### 05 npm install/ npm i or yarn install
+- #### 06 npm install/ npm i or yarn install
 
-- #### 06 npx newman run .collection/my_task_collection.json
+- #### 07 npx newman run .collection/my_task_collection.json
 
-- #### 07 npm test or yarn test
+- #### 08 npm test or yarn test
 
 - #### **Find the attachment of report preview**
 
 ![](./collection/newman_report.PNG)
+![](./collection/newman_report_part1.PNG)
+![](./collection/newman_report_part_2.PNG)
 ![](./collection/Newman-Summary-Report.png)
