@@ -4,7 +4,7 @@
 
 - #### 02 [API testing Postman Documentation](https://documenter.getpostman.com/view/21495292/UzBsGigX)
 
-### **The instructions are given below:**
+### **The instructions for project run are given below:**
 
 - #### 01 Clone this project
 
