@@ -22,7 +22,7 @@
 
 - #### 08 npm test or yarn test
 
-### **Find the attachment of report preview**
+### **Find the attachment of report preview-**
 
 ![](./collection/newman_report.PNG)
 ![](./collection/newman_report_part1.PNG)
