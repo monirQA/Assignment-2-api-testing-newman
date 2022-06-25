@@ -14,7 +14,7 @@
 
 - #### 04 Open terminal inside the project folder
 
-- #### 05 Follow the command below to run the Collection Run Jason file
+- #### 05 Follow the command below to run the "Collection Run Jason" file
 
 - #### 06 npm install/ npm i or yarn install
 
